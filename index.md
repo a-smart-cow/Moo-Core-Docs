@@ -1,6 +1,6 @@
 ---
-title: Moo Core | Docs
+title: Overview
 layout: home
 ---
 
-temporary
+Base Page for core documenation.
