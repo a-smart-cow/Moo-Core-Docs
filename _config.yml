@@ -4,5 +4,7 @@ theme: just-the-docs
 
 url: https://a-smart-cow.github.io/moo-core-docs
 
+color_scheme: dark
+
 plugins:
   - jekyll-default-layout
