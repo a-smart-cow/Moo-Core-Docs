@@ -3,3 +3,6 @@ description: Documentation for Moo Core.
 theme: just-the-docs
 
 url: https://a-smart-cow.github.io/moo-core-docs
+
+plugins:
+  - jekyll-default-layout
