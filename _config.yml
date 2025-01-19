@@ -5,3 +5,10 @@ theme: just-the-docs
 url: https://a-smart-cow.github.io/moo-core-docs
 
 color_scheme: dark
+
+logo: "/assets/images/Logo.png"
+favicon_ico: "/assets/images/Logo.png"
+
+search_enabled: true
+nav_enabled: true
+heading_anchors: true
