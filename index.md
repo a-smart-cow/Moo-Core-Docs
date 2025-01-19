@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Moo Core | Docs
 layout: home
 ---
 
