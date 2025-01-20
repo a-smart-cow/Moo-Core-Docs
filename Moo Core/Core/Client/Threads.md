@@ -1,5 +1,5 @@
 ---
-title: Threds
+title: Threads
 nav_order: 1
 parent: Client
 layout: home
@@ -11,7 +11,8 @@ The Threads.lua file contains the logic to disable certain aspects of the defaul
 
 <br>
 
-```LUA
+{% highlight LUA %}
+
 --| :: Disable certain aspects of the game and tell the server that the player has joined
 Citizen.CreateThread(function()
     TriggerServerEvent('Player::OnPlayerFullyJoined')
@@ -47,4 +48,5 @@ Citizen.CreateThread(function()
         DisableControlAction(0, 0xFF8109D8, true)                           --| Loot Alive Component
     end;
 end);
-```
+
+{% endhighlight %}
