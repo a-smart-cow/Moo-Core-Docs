@@ -1,5 +1,5 @@
 ---
-title: Exports
+title: Threds
 nav_order: 1
 parent: Client
 layout: home
@@ -8,6 +8,8 @@ layout: home
 # 📃Threads
 <hr>
 The Threads.lua file contains the logic to disable certain aspects of the default game and tell the server when the player has fully joined. You can see the entirety of this file here:
+
+<br>
 
 ```LUA
 --| :: Disable certain aspects of the game and tell the server that the player has joined
